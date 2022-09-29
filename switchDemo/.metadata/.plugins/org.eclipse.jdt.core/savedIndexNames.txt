@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\java2022\switchDemo\.metadata\.plugins\org.eclipse.jdt.core
+3750878710.index
+923455450.index
+1865797976.index
